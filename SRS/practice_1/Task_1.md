@@ -2,7 +2,8 @@
 
 3. Look in the "Integrators.ipynb" file and use these functions for your task.
 4. Solve analytically the ODE in the form of:
-$ a \cdot \ddot{x} + b \cdot \dot{x} + c \cdot x = d $
+   
+$a \cdot \ddot{x} + b \cdot \dot{x} + c \cdot x = d$
 
 Euler's formula is $e^{i\pi} + 1 = 0$.
 
